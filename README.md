@@ -1,12 +1,29 @@
-### Hi there 
 
-My name is Tainá, is nice to have you here. ✨
+## Hello, my name is Tainá...
+### Is nice to have you here. ✨
 
-💻 I'm a iOS Software Engineer from Brazil. I have a Computes Science degree 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+### 👩🏽‍💻 About me
+
+_I'm a iOS Software Engineer._ 
+
+I'm 23 years old and i'm from Brazil. I have a Computer Science degree and i love building apps. In this GitHub you'll find my studies. 
+I also have interesting in data science, machine learning and artificial inteligence. 
  
-📍 Currently living in Barcelona, Spain 🇪🇸
+📍 Currently living in Barcelona, Spain. 🇪🇸
 
-💬 You can talk to me in: English, Portuguese and Spanish 
+💬 You can talk to me in: English, Portuguese and Spanish.
 
-📩 You can reach me in my social medias and my email. 
+📩 You can reach me in my social medias and email. 
+
+**Don't be shy...**
  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainaviriato/)](https://www.linkedin.com/in/tainaviriato/) 
+[![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/tainavm)](https://dev.to/tainavm) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tainavmendes@gmail.com)](mailto:tainavmendes@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tainavmendes)](https://twitter.com/tainavmendes) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/be-mobile)](https://medium.com/be-mobile) 
+ 
+### 💻 Tech Specs - What i know   
+- Swift, Objective-C, Java, Python, C, C++, C#, JavaScript. 
