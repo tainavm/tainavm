@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**tainavm/tainavm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My name is Tainá, is nice to have you here.
+My name is Tainá, is nice to have you here. ✨
 
 💻 I'm a iOS Develeper from Brazil
 📍 Currently living in Barcelona, Spain 🇪🇸
