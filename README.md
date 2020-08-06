@@ -6,7 +6,7 @@
 
 ### 👩🏽‍💻 About me
 
-_I'm a iOS Software Engineer._ 
+_I'm an iOS Software Engineer._ 
 
 I'm 23 years old and I'm from Brazil. I have a Computer Science degree and I love building apps. In this GitHub you'll find my studies. 
 I also have interesting in data science, machine learning and artificial inteligence. 
