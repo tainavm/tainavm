@@ -8,7 +8,7 @@
 
 _I'm an iOS Software Engineer._ 
 
-I'm 23 years old and I'm from Brazil. I have a Computer Science degree and I love building apps. In this GitHub you'll find my studies. 
+I'm 24 years old and I'm from Brazil. I have a Computer Science degree and I love building apps. In this GitHub you'll find my studies. 
 I also have interesting in data science, machine learning and artificial inteligence. 
  
 📍 Currently living in Barcelona, Spain. 🇪🇸
@@ -26,4 +26,4 @@ I also have interesting in data science, machine learning and artificial intelig
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/be-mobile)](https://medium.com/be-mobile) 
  
 ### 🖥 Tech Specs - What i know   
-- Swift, Objective-C, Java, Python, C, C++, C#, JavaScript. 
+- Swift, Objective-C, Java, Python, C, C++, C#
