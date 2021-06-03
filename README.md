@@ -2,8 +2,6 @@
 ## Hello, my name is Tainá...
 ### Is nice to have you here. ✨
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 ### 👩🏽‍💻 About me
 
 _I'm an iOS Engineer._ 
