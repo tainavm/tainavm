@@ -18,7 +18,6 @@ I also have interesting in data science, machine learning and artificial intelig
 **Don't be shy...**
  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainaviriato/)](https://www.linkedin.com/in/tainaviriato/) 
-[![Dev Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/tainavm)](https://dev.to/tainavm) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tainavmendes@gmail.com)](mailto:tainavmendes@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tainavmendes)](https://twitter.com/tainavmendes) 
  
