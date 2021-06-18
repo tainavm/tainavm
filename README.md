@@ -21,5 +21,5 @@ I also have interesting in data science, machine learning and artificial intelig
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tainavmendes@gmail.com)](mailto:tainavmendes@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tainavmendes)](https://twitter.com/tainavmendes) 
  
-### 🖥 Tech Specs - What i know   
+### Tech Specs - What i know   
 - Swift, Objective-C, Java, Python, C, C++, C#
