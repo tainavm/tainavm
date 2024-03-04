@@ -6,7 +6,7 @@
 
 _I'm an iOS Engineer._ 
 
-I'm 25 years old and I'm from Brazil. I have a Computer Science degree and I love building apps. In this GitHub you'll find my studies. 
+I'm 27 years old and I'm from Brazil. I have a Computer Science degree and I love building apps. In this GitHub you'll find my studies. 
 I also have interesting in data science, machine learning and artificial inteligence. 
  
 📍 Currently living in Barcelona, Spain. 🇪🇸
